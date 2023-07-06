@@ -1,6 +1,6 @@
 package DemoPractGit;
 
-public class LoginApplication 
+public class AddToCart 
 {
 	public static void main(String[] args) 
 	{
