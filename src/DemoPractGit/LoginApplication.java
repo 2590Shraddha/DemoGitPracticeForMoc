@@ -4,7 +4,7 @@ public class LoginApplication
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Enter Id And Pswd");
+		System.out.println("Enter Username nad password");
 	}
 
 }
